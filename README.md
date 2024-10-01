@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web Application Security and Web Development
 - 🌱 I’m currently learning both
 - 💞️ I’m looking to collaborate on both
-- 📫 How to reach.....reach me out on instagram @cyberchefraven
+- 📫 How to reach.....reach me out on instagram @sakshi.ritrapix
 - 😄 Pronouns: not sure
-- ⚡ Fun fact: just a serious coder and hacker who is also a chef 
+- ⚡ Fun fact: just a serious coder and hacker 
 
 <!---
 sakshinkn007/sakshinkn007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
