@@ -34,6 +34,13 @@
 - **PHP** 🔧
 
 ---
+## 🌟 Projects
+Here are some of the projects I have worked on:
+
+- [Encryption-Decryption System](https://github.com/sakshinkn007/Encryption-Decryption_System): A secure system for data encryption and decryption.
+- [My Portfolio](https://github.com/sakshinkn007/sakshinkn007): Showcasing my skills, projects, and achievements.
+- [Password Checker](https://github.com/sakshinkn007/Password_Checker): A tool to evaluate password strength and security.
+- [Weather App](https://github.com/sakshinkn007/WeaatherApp): An application providing weather updates and forecasts.
 
 ### 💡 Let's Connect!
 
